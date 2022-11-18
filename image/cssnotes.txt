@@ -1,0 +1,45 @@
+CSS - Cascadding Style Sheet
+___________________
+
+It makes the webpage for attractive
+
+It consists of properties.
+
+Syntax
+
+Property-name : value;
+
+Types of CSS
+
+Inline
+
+<p style="">
+<h1 style="">
+
+Internal
+
+Internal Style Sheet can be written in 3 ways
+    - Tag Based
+    - Class Based
+    - Id Based
+ 
+External
+
+CSS properties
+
+1. Text properties
+    color
+    font-size
+    font-family
+    font-variant
+    font-weight
+    font-style
+    text-align
+    text-transform
+    text-shadow
+    text-decoration
+    text-indent
+    word-spacing
+    letter-spacing
+    line-height
+    

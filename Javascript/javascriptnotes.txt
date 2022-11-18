@@ -1,0 +1,38 @@
+Javascript
+__________________
+
+It is a client side scripting Language
+which will be used to make your website dynamic
+
+Javascript will be used to make even mobile sites
+
+Javascript is mainly used for accessing computer operation
+
+Events in Javascript
+    - Mouse Events
+    - Key Events
+    - Click Events
+    - Double Click Events
+    - load Events
+
+Javascript code will be written inside script tag
+<script>
+
+</script>
+
+Conditional Statements
+
+if
+if--else
+else--if
+nested if
+switch case
+
+Looping Statements
+
+for
+
+while
+
+do--while
+

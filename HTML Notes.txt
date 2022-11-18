@@ -1,0 +1,29 @@
+HTML - HyperText markup language
+
+it is mainly used to design the web pages
+
+type of webpage
+
+static
+
+you can only view  the contents
+
+dynamic
+
+you can control webpages
+
+HTML will be consists of tags
+
+<>
+
+All tags must have closing tags except few tags
+
+</>
+
+TextFormatting tags
+
+Javascript
+_______________
+
+1. It is a client side scripting language.
+
